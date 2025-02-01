@@ -13,8 +13,8 @@ Visit our website: [https://bssr-nodes.com/](https://bssr-nodes.com/)
 To get started with BSSR Nodes:
 
 1. **Visit our Discord server** to make an account.
-2. **Sign up** for an account.
-3. **Run `/server create`** to start making a server.
+2. **Sign up** for an account with `!user new`.
+3. **Run `!server create`** to start making a server.
 
 ## Contributing
 
